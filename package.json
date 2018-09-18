@@ -1,0 +1,20 @@
+{
+  "name": "backend-nodejs-solo-R3coTh3Cod3r",
+  "version": "1.0.0",
+  "description": "For this assignment you will create a full node.js backend application from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-fall-2018/backend-nodejs-solo-R3coTh3Cod3r.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-fall-2018/backend-nodejs-solo-R3coTh3Cod3r/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-fall-2018/backend-nodejs-solo-R3coTh3Cod3r#readme"
+}
